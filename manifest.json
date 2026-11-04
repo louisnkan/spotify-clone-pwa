@@ -1,0 +1,19 @@
+{
+  "name": "Now Playing",
+  "short_name": "Player",
+  "description": "A Spotify-style Now Playing screen",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
